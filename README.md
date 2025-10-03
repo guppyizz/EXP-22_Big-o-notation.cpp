@@ -1,6 +1,18 @@
-# EXP-22_Big-o-tation.cpp
+# 💻 C++ EXPERIMENTS
 
-# Big_O_Notation_in_C_Plus_Plus
+A curated collection of C++ programs for practice and learning, designed with simplicity and clarity in mind.
+
+---
+
+## 👨‍🎓 Student Information
+
+- **Name:** Updesh Arora  
+- **PRN:** 24070123124  
+- **Branch:** ENTC  
+- **Class:** B-3
+
+---
+# EXP-22_Big-o-tation.cpp
 # Aim: To study Algorithm analysis using Big O notation
 # Theory:
 Big O notation is a powerful tool used in computer science to describe the time complexity or space complexity of algorithms. Big-O is a way to express the upper bound of an algorithm’s time or space complexity.
